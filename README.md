@@ -121,5 +121,3 @@ The `Thread Group.jmx` is used for load testing with [Apache JMeter](https://jme
 ## Troubleshooting
 
 - **Port Already in Use**: If you get an error like “Address already in use,” change the port in your server and client code.  
-
----
